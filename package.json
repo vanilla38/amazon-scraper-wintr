@@ -1,0 +1,30 @@
+{
+  "name": "amazon-scraper-wintr",
+  "description": "Extract product data from Amazon search and product URLs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"No test specified\""
+},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XXXXX/amazon-scraper-wintr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XXXXX/amazon-scraper-wintr/issues"
+  },
+  "keywords": [
+    "scrape",
+    "amazon",
+    "product",
+    "scraping",
+    "scraper"
+  ],
+  "author": "XXXXX",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
