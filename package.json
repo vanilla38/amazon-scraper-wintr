@@ -8,10 +8,10 @@
 },
   "repository": {
     "type": "git",
-    "url": "git://github.com/XXXXX/amazon-scraper-wintr.git"
+    "url": "git://github.com/vanilla38/amazon-scraper-wintr.git"
   },
   "bugs": {
-    "url": "https://github.com/XXXXX/amazon-scraper-wintr/issues"
+    "url": "https://github.com/vanilla38/amazon-scraper-wintr/issues"
   },
   "keywords": [
     "scrape",
@@ -20,7 +20,7 @@
     "scraping",
     "scraper"
   ],
-  "author": "XXXXX",
+  "author": "vanilla38",
   "license": "GNU GENERAL PUBLIC LICENSE",
   "readmeFilename": "README.md",
   "devDependencies": {},
